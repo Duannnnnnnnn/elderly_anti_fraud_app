@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807060645872",
+    "project_id": "elderly-571a3",
+    "storage_bucket": "elderly-571a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807060645872:android:309a18a9e79ee6d9a51f35",
+        "android_client_info": {
+          "package_name": "com.example.elderly_anti_fraud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQ3c7ajlVgVP9ArqVPmpwfhczeK2jAok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
